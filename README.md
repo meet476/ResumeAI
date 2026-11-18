@@ -203,5 +203,18 @@ ResumeAI/
 ---
 
 ## 📄 License
+  
+
+  ## 👨‍💻 Project Maintainer
+
+*Meet Bagadiya*
+
+- GitHub: https://github.com/meet476
+- Project: [ResumeAI](https://github.com/meet476/ResumeAI)
+
+This project was developed as a collaborative group project.
+
 
 MIT © ResumeAI
+
+
